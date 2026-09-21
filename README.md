@@ -2,10 +2,6 @@
 
 Let's practice using raymarching and SDFs! You may work with a partner or even two for this one.
 
-# Setup 
-
-Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Mushroom Puzzle](https://www.shadertoy.com/view/sstSz2).
-
 # Puzzle
 
 Do your best to replicate the following simple animation:
@@ -16,8 +12,7 @@ Extra credit:
 Make the animation less terrible! More detailed model, color differentiation for the mushroom vs ground, clouds, etc.
 
 # Submission
-- Create a pull request to this repository
-- In the README, include the names of both your team members
-- In the README, create a link to your shader toy solutions
-- Make sure your shadertoy is set to UNLISTED or PUBLIC (so we can see them!)
+Paulo khayat 17691103
+https://www.shadertoy.com/view/N3dGDl#
 
+I used IG's implementation [of a cut Sphere](https://iquilezles.org/articles/distfunctions/) for the head
