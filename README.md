@@ -13,6 +13,8 @@ Make the animation less terrible! More detailed model, color differentiation for
 
 # Submission
 Paulo khayat 17691103
-https://www.shadertoy.com/view/N3dGDl#
+Exact: https://www.shadertoy.com/view/N3dGDl#
+Upgraded: https://www.shadertoy.com/view/7XVGzz
 
-I used IG's implementation [of a cut Sphere](https://iquilezles.org/articles/distfunctions/) for the head
+I used IG's implementation [of a cut Sphere](https://iquilezles.org/articles/distfunctions/) for the mushroom head in the enhanced ones
+(mainly because i originally used this before i found the exact method used in the puzzle)
